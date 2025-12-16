@@ -1,5 +1,3 @@
-<!-- # ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation -->
-
 <div align="center">
 <h3> MindDrive: A Vision-Language-Action Model for Autonomous Driving Utilizing Language as Action in Online Reinforcement Learning </h3>
 
@@ -9,7 +7,7 @@ Haoyu Fu<sup>1\*</sup>, Diankun Zhang<sup>2\*</sup>, Zongchuang Zhao<sup>1</sup>
 
 (\*) Equal contribution. (†) Project leader.
 
-<a href=""><img src='https://img.shields.io/badge/arXiv-MindDrive-red' alt='Paper PDF'></a>
+<a href="https://arxiv.org/abs/2512.13636"><img src='https://img.shields.io/badge/arXiv-MindDrive-red' alt='Paper PDF'></a>
 <a href="https://xiaomi-mlab.github.io/MindDrive/"><img src='https://img.shields.io/badge/Project_Page-MindDrive-green' alt='Project Page'></a>
 </div>
 
@@ -26,12 +24,12 @@ Current Vision-Language-Action (VLA) paradigms in autonomous driving primarily r
 
 ## News
 
-`[2025/12/26]` [ArXiv](https://arxiv.org/abs/2503.19755) paper release.
+`[2025/12/16]` [ArXiv](https://arxiv.org/abs/2512.13636) paper release.
 
 ## Currently Supported Features
 
 - [ ] MindDrive Inference Framework
-- [ ] Close-loop Evalution
+- [ ] Close-loop Evaluation
 - [ ] MindDrive Checkpoint
 - [ ] MindDrive Training Framework
 
@@ -55,9 +53,9 @@ If this work is helpful for your research, please consider citing:
 ```
 @article{fu2025minddrive,
   title={MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning},
-  author={Haoyu Fu and Diankun Zhang and Zongchuang Zhao and Jianfeng Cui and Dingkang Liang  and Hongwei Xie and Bing Wang and Xiang Bai},
-  journal={},
-  year={2025}
+  author={Haoyu Fu and Diankun Zhang and Zongchuang Zhao and Jianfeng Cui and Hongwei Xie and Bing Wang and Guang Chen and Dingkang Liang and Xiang Bai},
+  journal={arXiv Preprint arXiv:2512.13636},  
+  year={2025},
 }
 ```
 ```
